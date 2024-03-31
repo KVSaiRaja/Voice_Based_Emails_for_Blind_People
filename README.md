@@ -23,4 +23,4 @@ And that's it! With this voice-based email service, visually impaired individual
 
 The Output Videos and Pictures will be updated soon. 
 
-It's just a demo purpose. That's we have executed the program in Command Prompt only. 
+It's just a demo purpose. That's why we have executed the program in Command Prompt only. 
