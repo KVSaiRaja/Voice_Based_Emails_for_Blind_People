@@ -4,7 +4,7 @@ Welcome to the Voice-Based Email Service for Visually Impaired People. In this v
 The first step is to sign in with your Gmail account. The system guides you through the authentication process by asking you to speak your email address and app password( For some security issues we have to create a default app password in 2FA).
 # Step-2: Choose the action from Main Menu
 Once authenticated, you'll be presented with the main menu. Here, you have several options: compose an email, access your inbox, sent folder, starred folder, spam folder, trash folder, or logout.
-# If the Action is COMPOSE a Email
+# If the Action is COMPOSE an Email
 To compose an email, simply speak the recipient's email address, subject, and body of the email. You can also choose to add an audio attachment( it only records English language ) to your email.
 # If the Action is INBOX Folder
 You can access your inbox the system can read out your emails. In inbox you will have two options they are Seen Mails and Unseen Mails based on our choice the system reads out the sender, subject, and body of each email. You can choose to reply to email, mark as spam, mark as important, move to trash, or skip each email.
